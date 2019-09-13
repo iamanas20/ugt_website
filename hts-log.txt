@@ -1,0 +1,42 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 11 Sep 2019 00:32:18 at http://themes.dhrubok.website/xpider/home-tokyo/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://themes.dhrubok.website/xpider/home-tokyo/ -O1 "C:\Users\annou\Documents\GitHub\Test" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+00:35:09	Warning: 	Retry after error -4 (No data (connection closed)) at link https://754701.smushcdn.com/1462796/wp-content/uploads/2019/02/icon-drag.png?lossy=0&strip=1&webp=1 (from themes.dhrubok.website/xpider/home-tokyo/)
+00:35:09	Error: 	"Not Found: File not found on origin server" (404) at link https://754701.smushcdn.com/1462796/wp-content/uploads/2019/02/brand-logo-color.png?lossy=0&strip=1&webp=1 (from themes.dhrubok.website/xpider/home-tokyo/)
+00:35:09	Error: 	"Not Found" (404) at link themes.dhrubok.website/xpider/home-tokyo/img/patterns/circle-pattern.png (from themes.dhrubok.website/xpider/home-tokyo/)
+00:35:10	Error: 	"Not Found" (404) at link themes.dhrubok.website/xpider/home-tokyo/img/patterns/circles-light.png (from themes.dhrubok.website/xpider/home-tokyo/)
+00:35:10	Error: 	"Not Found" (404) at link themes.dhrubok.website/xpider/home-tokyo/img/patterns/leaf-pattern.png (from themes.dhrubok.website/xpider/home-tokyo/)
+00:35:10	Error: 	"Not Found" (404) at link themes.dhrubok.website/xpider/home-tokyo/img/patterns/memphis-colorful.png (from themes.dhrubok.website/xpider/home-tokyo/)
+00:35:10	Error: 	"Not Found" (404) at link themes.dhrubok.website/xpider/home-tokyo/img/patterns/round-pattern.png (from themes.dhrubok.website/xpider/home-tokyo/)
+00:35:10	Error: 	"Not Found" (404) at link themes.dhrubok.website/xpider/home-tokyo/img/patterns/spiration-light.png (from themes.dhrubok.website/xpider/home-tokyo/)
+00:35:10	Error: 	"Not Found" (404) at link themes.dhrubok.website/xpider/home-tokyo/img/patterns/swirl-pattern.png (from themes.dhrubok.website/xpider/home-tokyo/)
+00:35:10	Error: 	"Not Found" (404) at link themes.dhrubok.website/xpider/home-tokyo/img/patterns/tic-tac-toe.png (from themes.dhrubok.website/xpider/home-tokyo/)
+00:35:10	Error: 	"Not Found" (404) at link themes.dhrubok.website/xpider/home-tokyo/img/patterns/x-pattern.png (from themes.dhrubok.website/xpider/home-tokyo/)
+00:35:10	Error: 	"Not Found" (404) at link themes.dhrubok.website/xpider/home-tokyo/img/patterns/curls.png (from themes.dhrubok.website/xpider/home-tokyo/)
+00:35:10	Error: 	"Not Found" (404) at link themes.dhrubok.website/xpider/home-tokyo/img/patterns/dark-angles.png (from themes.dhrubok.website/xpider/home-tokyo/)
+00:35:10	Error: 	"Not Found" (404) at link themes.dhrubok.website/xpider/home-tokyo/img/patterns/darkness.png (from themes.dhrubok.website/xpider/home-tokyo/)
+00:35:10	Error: 	"Not Found" (404) at link themes.dhrubok.website/xpider/home-tokyo/img/patterns/spiration-dark.png (from themes.dhrubok.website/xpider/home-tokyo/)
+00:35:10	Error: 	"Not Found" (404) at link themes.dhrubok.website/xpider/home-tokyo/img/patterns/zig-zag-wool.png (from themes.dhrubok.website/xpider/home-tokyo/)
+00:35:10	Warning: 	Retry after error -4 (No data (connection closed)) at link https://754701.smushcdn.com/1462796/wp-content/themes/xpider/assets/demo-assets/home-barcelona.png?lossy=0&strip=1&webp=1 (from themes.dhrubok.website/xpider/home-tokyo/)
+00:35:13	Error: 	"Not Found" (404) at link themes.dhrubok.website/xpider/wp-content/themes/xpider/assets/img/patterns/swirl-pattern.png (from themes.dhrubok.website/xpider/wp-content/cache/wpfc-minified/f1lni7g7/vs6k.css)
+00:35:13	Error: 	"Not Found" (404) at link themes.dhrubok.website/xpider/wp-content/themes/xpider/assets/img/patterns/circle-pattern.png (from themes.dhrubok.website/xpider/wp-content/cache/wpfc-minified/f1lni7g7/vs6k.css)
+00:35:13	Error: 	"Not Found" (404) at link themes.dhrubok.website/xpider/wp-content/themes/xpider/assets/img/patterns/x-pattern.png (from themes.dhrubok.website/xpider/wp-content/cache/wpfc-minified/f1lni7g7/vs6k.css)
+00:35:13	Error: 	"Not Found" (404) at link themes.dhrubok.website/xpider/wp-content/themes/xpider/assets/img/patterns/leaf-pattern.png (from themes.dhrubok.website/xpider/wp-content/cache/wpfc-minified/f1lni7g7/vs6k.css)
+00:35:13	Error: 	"Not Found" (404) at link themes.dhrubok.website/xpider/wp-content/themes/xpider/assets/img/patterns/tic-tac-toe.png (from themes.dhrubok.website/xpider/wp-content/cache/wpfc-minified/f1lni7g7/vs6k.css)
+00:35:13	Error: 	"Not Found" (404) at link themes.dhrubok.website/xpider/wp-content/themes/xpider/assets/img/patterns/circles-light.png (from themes.dhrubok.website/xpider/wp-content/cache/wpfc-minified/f1lni7g7/vs6k.css)
+00:35:13	Error: 	"Not Found" (404) at link themes.dhrubok.website/xpider/wp-content/themes/xpider/assets/img/patterns/spiration-light.png (from themes.dhrubok.website/xpider/wp-content/cache/wpfc-minified/f1lni7g7/vs6k.css)
+00:35:13	Error: 	"Not Found" (404) at link themes.dhrubok.website/xpider/wp-content/themes/xpider/assets/img/patterns/round-pattern.png (from themes.dhrubok.website/xpider/wp-content/cache/wpfc-minified/f1lni7g7/vs6k.css)
+00:35:13	Error: 	"Not Found" (404) at link themes.dhrubok.website/xpider/wp-content/themes/xpider/assets/img/patterns/dark-angles.png (from themes.dhrubok.website/xpider/wp-content/cache/wpfc-minified/f1lni7g7/vs6k.css)
+00:35:13	Error: 	"Not Found" (404) at link themes.dhrubok.website/xpider/wp-content/themes/xpider/assets/img/patterns/memphis-colorful.png (from themes.dhrubok.website/xpider/wp-content/cache/wpfc-minified/f1lni7g7/vs6k.css)
+00:35:13	Error: 	"Not Found" (404) at link themes.dhrubok.website/xpider/wp-content/themes/xpider/assets/img/patterns/spiration-dark.png (from themes.dhrubok.website/xpider/wp-content/cache/wpfc-minified/f1lni7g7/vs6k.css)
+00:35:13	Error: 	"Not Found" (404) at link themes.dhrubok.website/xpider/wp-content/themes/xpider/assets/img/patterns/curls.png (from themes.dhrubok.website/xpider/wp-content/cache/wpfc-minified/f1lni7g7/vs6k.css)
+00:35:13	Error: 	"Not Found" (404) at link themes.dhrubok.website/xpider/wp-content/themes/xpider/assets/img/patterns/darkness.png (from themes.dhrubok.website/xpider/wp-content/cache/wpfc-minified/f1lni7g7/vs6k.css)
+00:35:13	Error: 	"Not Found" (404) at link themes.dhrubok.website/xpider/wp-content/themes/xpider/assets/img/patterns/zig-zag-wool.png (from themes.dhrubok.website/xpider/wp-content/cache/wpfc-minified/f1lni7g7/vs6k.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 2 minutes 54 seconds : 102 links scanned, 70 files written (21403097 bytes overall) [21487290 bytes received at 123490 bytes/sec], 933901 bytes transferred using HTTP compression in 29 files, ratio 14%, 1.3 requests per connection
+(29 errors, 2 warnings, 0 messages)
