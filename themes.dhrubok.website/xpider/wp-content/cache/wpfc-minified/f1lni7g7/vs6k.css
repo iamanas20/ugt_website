@@ -4132,6 +4132,9 @@ background-color: #01081f
 .elementor-section {
 padding: 8rem 0
 }
+.elementor-section2 {
+padding: 6rem 40px;
+}
 .pricing-card .header h2 {
 color: #2f5bea;
 }
